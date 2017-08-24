@@ -1,13 +1,13 @@
 # React Tutorials
-A conglomeration of the best and newest React.js tutorials out there.
+A conglomeration of the best, newest, and FREE-est React.js tutorials out there.
 
-###### NOTE: If any links are broken, or tutorials become outdated, please message me, or update/delete the link. Also feel free to add your own tutorial links, or other useful ones as they are found. 
+###### NOTE: If any links are broken, or tutorials become outdated, please message me, or update/delete the link with a pull request. Also feel free to add your own tutorial links, or other useful ones as they are found. 
 
 ###### NOTE: I'm trying to keep this fairly organized, so please follow the standard below when adding a link.
 
 ```
 Month + Year (article published)
-(article difficulty) Article Name
+(article difficulty) + Article Name + (Native if applicable)
 ```
 
 ------
