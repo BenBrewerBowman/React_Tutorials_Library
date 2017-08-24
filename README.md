@@ -31,12 +31,16 @@ Intermediate - [Creating a Blogging App Using React, Part 1: User Sign-In](https
 Beginner - [Building React Native Apps on any Platform without Xcode or Android Studio](http://rationalappdev.com/building-react-native-apps-on-any-platform-without-xcode-or-android-studio/) - **(Native)**
 
 ### March 2017
+Intermediate - [How to Use `Create-react-app` with GraphQL & Apollo](https://blog.graph.cool/how-to-use-create-react-app-with-graphql-apollo-62e574617cff)
+
 Intermediate - [Logging Into React Native Apps with Facebook or Google](http://rationalappdev.com/logging-into-react-native-apps-with-facebook-or-google/) - **(Native)**
+
+Intermediate - [Offline First Apps with React Native and Redux](http://rationalappdev.com/offline-first-apps-with-react-native-and-redux/) - **(Native)**
 
 ### February 2017
 Beginner - [Simplest React App Setup](https://medium.com/@kayodeniyi/simplest-react-app-setup-a74277b99e43)
 
-Beginner - [Use react-router with ease](https://medium.com/@kayodeniyi/use-react-router-with-ease-79740d951bec)
+Beginner - [Use React-router with Ease](https://medium.com/@kayodeniyi/use-react-router-with-ease-79740d951bec)
 
 Beginner - [Setup a React Environment Using webpack and Babel](https://scotch.io/tutorials/setup-a-react-environment-using-webpack-and-babel)
 
@@ -47,6 +51,8 @@ Intermediate - [API Backend with Node.js, Express, and MongoDB (Movie Tickets Pa
 Intermediate - [Storing Data From API with Redux in React Native Apps (Movie Tickets Part 3)](http://rationalappdev.com/storing-data-from-api-with-redux-in-react-native-apps/) - **(Native)**
 
 ### December 2016
+Beginner - [React Native Cheat Sheet](http://rationalappdev.com/react-native-cheat-sheet/) - **(Native)**
+
 Intermediate - [Santa’s Map App With React Native](http://rationalappdev.com/santas-map-app-with-react-native/) - **(Native)**
 
 ### September 2016
