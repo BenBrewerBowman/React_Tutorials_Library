@@ -24,6 +24,9 @@ Intermediate - [Charts in React Native (Part 2)](http://rationalappdev.com/chart
 
 Intermediate - [Charts in React Native (Part 13](http://rationalappdev.com/charts-in-react-native-part-3/) - **(Native)**
 
+### June 2017
+Intermediate - [Creating a Blogging App Using React, Part 1: User Sign-In](https://code.tutsplus.com/tutorials/creating-a-blogging-app-using-react-user-sign-in--cms-28568)
+
 ### May 2017
 Beginner - [Building React Native Apps on any Platform without Xcode or Android Studio](http://rationalappdev.com/building-react-native-apps-on-any-platform-without-xcode-or-android-studio/) - **(Native)**
 
