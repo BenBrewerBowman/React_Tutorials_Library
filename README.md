@@ -30,7 +30,7 @@ Intermediate - [Charts in React Native (Part 2)](http://rationalappdev.com/chart
 Intermediate - [Charts in React Native (Part 13](http://rationalappdev.com/charts-in-react-native-part-3/) - **(Native)**
 
 ### June 2017
-Intermediate - [Creating a Blogging App Using React, Part 1: User Sign-In](https://code.tutsplus.com/tutorials/creating-a-blogging-app-using-react-user-sign-in--cms-28568)
+Intermediate - [Creating a Blogging App Using React](https://code.tutsplus.com/tutorials/creating-a-blogging-app-using-react-user-sign-in--cms-28568)
 
 ### May 2017
 Beginner - [Building React Native Apps on any Platform without Xcode or Android Studio](http://rationalappdev.com/building-react-native-apps-on-any-platform-without-xcode-or-android-studio/) - **(Native)**
@@ -63,9 +63,7 @@ Intermediate - [Santa’s Map App With React Native](http://rationalappdev.com/s
 ### September 2016
 Beginner - [React Getting Started — The MERN Stack Tutorial! (feat. ES6!)](https://medium.com/@bryantheastronaut/react-getting-started-the-mern-stack-tutorial-feat-es6-de1a2886be50)
 
-Intermediate - [Build a List of Pets for Adoption App with React Native – Part 1](http://rationalappdev.com/build-a-list-of-pets-for-adoption-app-with-react-native/) - **(Native)**
-
-Intermediate - [Build a List of Pets for Adoption App with React Native – Part 2](http://rationalappdev.com/build-a-list-of-pets-for-adoption-app-with-react-native-part-2/) - **(Native)**
+Intermediate - [Build a List of Pets for Adoption App with React Native](http://rationalappdev.com/build-a-list-of-pets-for-adoption-app-with-react-native/) - **(Native)**
 
 ### July 2016
 Beginner - [React Getting Started — The MERN Stack Tutorial! (feat. ES6!)](https://medium.com/@bryantheastronaut/react-getting-started-the-mern-stack-tutorial-feat-es6-de1a2886be50)
