@@ -20,6 +20,8 @@ Beginner - [React Native Tutorial: Building iOS and Android Apps with JavaScript
 
 Beginner - [MERN Stack Tutorial](https://appdividend.com/2017/06/28/mern-stack-tutorial/)
 
+Beginner - [Beginner’s Guide To Setup React Environment](https://appdividend.com/2017/03/29/beginners-guide-to-setup-react-v15-4-2-environment/)
+
 ### July 2017
 Beginner - [A Simple Calculator App Using React and Node](https://www.codementor.io/azeezolaniran2016/a-simple-calculator-app-using-react-and-node-a0ubeooxk#comments-a0ubeooxk)
 
