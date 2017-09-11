@@ -69,5 +69,8 @@ Beginner - [React Getting Started — The MERN Stack Tutorial! (feat. ES6!)]
 
 Intermediate - [Build a List of Pets for Adoption App with React Native](http://rationalappdev.com/build-a-list-of-pets-for-adoption-app-with-react-native/) - **(Native)**
 
+### August 2016
+Beginner - [React on the Servers for Beginners: Build a Universal React and Node App](https://scotch.io/tutorials/react-on-the-server-for-beginners-build-a-universal-react-and-node-app)
+
 ### July 2016
 Beginner - [React Getting Started — The MERN Stack Tutorial! (feat. ES6!)](https://medium.com/@bryantheastronaut/react-getting-started-the-mern-stack-tutorial-feat-es6-de1a2886be50)
