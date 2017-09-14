@@ -75,5 +75,5 @@ Beginner - [React on the Servers for Beginners: Build a Universal React and Node
 ### July 2016
 Beginner - [React Getting Started — The MERN Stack Tutorial! (feat. ES6!)](https://medium.com/@bryantheastronaut/react-getting-started-the-mern-stack-tutorial-feat-es6-de1a2886be50)
 
-## January 2016
+### January 2016
 Intermediate - [Sharing Code between React Web and Native Apps](http://jkaufman.io/react-web-native-codesharing/)
