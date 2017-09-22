@@ -23,6 +23,8 @@ Beginner - [React Native Tutorial: Building iOS and Android Apps with JavaScript
 
 Beginner - [Beginner’s Guide To Setup React Environment](https://appdividend.com/2017/03/29/beginners-guide-to-setup-react-v15-4-2-environment/)
 
+Beginner - [React Router v4 in 8 minutes](https://www.youtube.com/watch?v=AzlpRbziyZQ)
+
 Beginner - [MERN Stack Tutorial](https://appdividend.com/2017/06/28/mern-stack-tutorial/)
 
 Intermediate - [Node.Js Express MongoDB Tutorial](https://appdividend.com/2017/06/18/node-js-express-tutorial/)
