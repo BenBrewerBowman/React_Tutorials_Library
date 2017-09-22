@@ -15,6 +15,9 @@ Month + Year (article published)
 ### Facebook's Official Intro Into React
 Beginner - [Tutorial: Intro To React (Tic-Tac-Toe)](https://facebook.github.io/react/tutorial/tutorial.html)
 
+### September 2017
+Intermediate - [Horizontal Calendar in React Native](http://rationalappdev.com/horizontal-calendar-in-react-native/) - **(Native)**
+
 ### August 2017
 Beginner - [React Native Tutorial: Building iOS and Android Apps with JavaScript](https://www.raywenderlich.com/165140/react-native-tutorial-building-ios-android-apps-javascript) - **(Native)**
 
