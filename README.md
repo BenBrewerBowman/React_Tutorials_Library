@@ -20,6 +20,8 @@ Beginner - [Course: Getting Started with Redux](https://egghead.io/courses/getti
 ### September 2017
 Intermediate - [Horizontal Calendar in React Native](http://rationalappdev.com/horizontal-calendar-in-react-native/) - **(Native)**
 
+Advanced - [How to Make Your Existing React App Progressive in 10 Minutes](https://scotch.io/tutorials/how-to-make-your-existing-react-app-progressive-in-10-minutes)
+
 ### August 2017
 Beginner - [React Native Tutorial: Building iOS and Android Apps with JavaScript](https://www.raywenderlich.com/165140/react-native-tutorial-building-ios-android-apps-javascript) - **(Native)**
 
