@@ -22,6 +22,8 @@ Intermediate - [Horizontal Calendar in React Native](http://rationalappdev.com/h
 
 Advanced - [How to Make Your Existing React App Progressive in 10 Minutes](https://scotch.io/tutorials/how-to-make-your-existing-react-app-progressive-in-10-minutes)
 
+Advanced - [Implementing GraphQL in React using Apollo](https://scotch.io/tutorials/implementing-graphql-in-react-using-apollo)
+
 ### August 2017
 Beginner - [React Native Tutorial: Building iOS and Android Apps with JavaScript](https://www.raywenderlich.com/165140/react-native-tutorial-building-ios-android-apps-javascript) - **(Native)**
 
