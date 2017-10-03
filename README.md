@@ -75,6 +75,9 @@ Beginner - [React Native Cheat Sheet](http://rationalappdev.com/react-native-che
 
 Intermediate - [Santa’s Map App With React Native](http://rationalappdev.com/santas-map-app-with-react-native/) - **(Native)**
 
+### October 2016
+Beginner - [Build a Bookshop with React & Redux](https://scotch.io/tutorials/build-a-bookshop-with-react-redux-i-react-redux-flow)
+
 ### September 2016
 Beginner - [React Getting Started — The MERN Stack Tutorial! (feat. ES6!)](https://medium.com/@bryantheastronaut/react-getting-started-the-mern-stack-tutorial-feat-es6-de1a2886be50)
 
