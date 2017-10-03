@@ -14,6 +14,8 @@ Month + Year (article published)
 ## Tutorials
 ### Facebook's Official Intro Into React
 Beginner - [Tutorial: Intro To React (Tic-Tac-Toe)](https://facebook.github.io/react/tutorial/tutorial.html)
+### Getting Started with Redux
+Beginner - [Course: Getting Started with Redux](https://egghead.io/courses/getting-started-with-redux)
 
 ### September 2017
 Intermediate - [Horizontal Calendar in React Native](http://rationalappdev.com/horizontal-calendar-in-react-native/) - **(Native)**
