@@ -18,6 +18,8 @@ Beginner - [Tutorial: Intro To React (Tic-Tac-Toe)](https://facebook.github.io/r
 Beginner - [Course: Getting Started with Redux](https://egghead.io/courses/getting-started-with-redux)
 
 ### September 2017
+Intermediate - [Laravel 5.5 ReactJS Tutorial](https://appdividend.com/2017/08/31/laravel-5-5-reactjs-tutorial/)
+
 Intermediate - [Horizontal Calendar in React Native](http://rationalappdev.com/horizontal-calendar-in-react-native/) - **(Native)**
 
 Advanced - [How to Make Your Existing React App Progressive in 10 Minutes](https://scotch.io/tutorials/how-to-make-your-existing-react-app-progressive-in-10-minutes)
