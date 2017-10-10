@@ -18,6 +18,8 @@ Beginner - [Tutorial: Intro To React (Tic-Tac-Toe)](https://facebook.github.io/r
 Beginner - [Course: Getting Started with Redux](https://egghead.io/courses/getting-started-with-redux)
 
 ### September 2017
+Intermediate - [React Router Tutorial Example From Scratch](https://appdividend.com/2017/09/12/react-router-tutorial-example-scratch/)
+
 Intermediate - [Laravel 5.5 ReactJS Tutorial](https://appdividend.com/2017/08/31/laravel-5-5-reactjs-tutorial/)
 
 Intermediate - [Horizontal Calendar in React Native](http://rationalappdev.com/horizontal-calendar-in-react-native/) - **(Native)**
