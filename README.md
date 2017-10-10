@@ -18,7 +18,7 @@ Beginner - [Tutorial: Intro To React (Tic-Tac-Toe)](https://facebook.github.io/r
 Beginner - [Course: Getting Started with Redux](https://egghead.io/courses/getting-started-with-redux)
 
 ### September 2017
-Intermediate - [ReactJS Tutorial For Beginners 2017 From Scratch](https://appdividend.com/2017/08/22/reactjs-tutorial-beginners-2017/)
+Beginner - [ReactJS Tutorial For Beginners 2017 From Scratch](https://appdividend.com/2017/08/22/reactjs-tutorial-beginners-2017/)
 
 Intermediate - [React Router Tutorial Example From Scratch](https://appdividend.com/2017/09/12/react-router-tutorial-example-scratch/)
 
