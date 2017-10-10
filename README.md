@@ -96,6 +96,8 @@ Intermediate - [Santa’s Map App With React Native](http://rationalappdev.com/s
 ### October 2016
 Beginner - [Build a Bookshop with React & Redux](https://scotch.io/tutorials/build-a-bookshop-with-react-redux-i-react-redux-flow)
 
+Intermediate - [Building an iOS Geolocation Travel App with React Native](https://www.codementor.io/vijayst/build-ios-geolocation-app-react-native-du1087rsy) - **(Native)**
+
 ### September 2016
 Beginner - [React Getting Started — The MERN Stack Tutorial! (feat. ES6!)](https://medium.com/@bryantheastronaut/react-getting-started-the-mern-stack-tutorial-feat-es6-de1a2886be50)
 
