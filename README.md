@@ -22,6 +22,8 @@ Beginner - [ReactJS Tutorial For Beginners 2017 From Scratch](https://appdividen
 
 Intermediate - [React Router Tutorial Example From Scratch](https://appdividend.com/2017/09/12/react-router-tutorial-example-scratch/)
 
+Intermediate - [React.Js Firebase Tutorial](https://appdividend.com/2017/07/22/react-firebase-tutorial/)
+
 Intermediate - [Laravel 5.5 ReactJS Tutorial](https://appdividend.com/2017/08/31/laravel-5-5-reactjs-tutorial/)
 
 Intermediate - [Horizontal Calendar in React Native](http://rationalappdev.com/horizontal-calendar-in-react-native/) - **(Native)**
