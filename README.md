@@ -18,6 +18,8 @@ Beginner - [Tutorial: Intro To React (Tic-Tac-Toe)](https://facebook.github.io/r
 Beginner - [Course: Getting Started with Redux](https://egghead.io/courses/getting-started-with-redux)
 
 ### September 2017
+Intermediate - [ReactJS Tutorial For Beginners 2017 From Scratch](https://appdividend.com/2017/08/22/reactjs-tutorial-beginners-2017/)
+
 Intermediate - [React Router Tutorial Example From Scratch](https://appdividend.com/2017/09/12/react-router-tutorial-example-scratch/)
 
 Intermediate - [Laravel 5.5 ReactJS Tutorial](https://appdividend.com/2017/08/31/laravel-5-5-reactjs-tutorial/)
@@ -48,7 +50,7 @@ Intermediate - [Charts in React Native (Part 1)](http://rationalappdev.com/chart
 
 Intermediate - [Charts in React Native (Part 2)](http://rationalappdev.com/charts-in-react-native-part-2/) - **(Native)**
 
-Intermediate - [Charts in React Native (Part 13](http://rationalappdev.com/charts-in-react-native-part-3/) - **(Native)**
+Intermediate - [Charts in React Native (Part 3)](http://rationalappdev.com/charts-in-react-native-part-3/) - **(Native)**
 
 ### June 2017
 Intermediate - [Creating a Blogging App Using React](https://code.tutsplus.com/tutorials/creating-a-blogging-app-using-react-user-sign-in--cms-28568)
