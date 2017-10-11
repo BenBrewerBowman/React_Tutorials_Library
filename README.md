@@ -106,8 +106,13 @@ Intermediate - [Build a List of Pets for Adoption App with React Native](http://
 ### August 2016
 Beginner - [React on the Servers for Beginners: Build a Universal React and Node App](https://scotch.io/tutorials/react-on-the-server-for-beginners-build-a-universal-react-and-node-app)
 
+Beginner - [React Native Calculator Tutorial](https://kylewbanks.com/blog/react-native-tutorial-part-1-hello-react) - **(Native)**
+
 ### July 2016
 Beginner - [React Getting Started — The MERN Stack Tutorial! (feat. ES6!)](https://medium.com/@bryantheastronaut/react-getting-started-the-mern-stack-tutorial-feat-es6-de1a2886be50)
+
+### May 2016
+Intermediate - [Build a Messaging App Using React Native using SendBird](https://blog.sendbird.com/tutorial-build-a-messaging-app-using-react-native/) - **(Native)**
 
 ### April 2016
 Beginner - [Getting Started With React Redux: An Intro](https://www.codementor.io/mz026/getting-started-with-react-redux-an-intro-8r6kurcxf)
