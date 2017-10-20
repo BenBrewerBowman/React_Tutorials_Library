@@ -1,5 +1,5 @@
 # React Tutorials
-A compilation of the best, newest, and FREE-est ReactJS and React-Native tutorials out there.
+JavaScript is changing, and fast. Stay up to date and relevant with a compilation of the best, newest, and FREE-est ReactJS and React-Native tutorials out there.  
 
 ###### NOTE: If any links are broken, or tutorials become outdated, please message me, or update/delete the link with a pull request. Also feel free to add your own tutorial links, or other useful ones as they are found. 
 
