@@ -13,7 +13,7 @@ Month + Year (article published)
 ------
 ## Tutorials
 ### Facebook's Official Intro Into React and React Native
-Beginner - [My first React App (Video)](https://www.youtube.com/watch?v=Pd3ZFwt9Lnc&index=3&list=PLujX4CIdBGCZWJuO6AkexvSBYzCjs4SCq)
+Beginner - [Tutorial: Intro To React (Tic-Tac-Toe)](https://facebook.github.io/react/tutorial/tutorial.html)
 
 Beginner - [Tutorial: Intro To React Native](http://facebook.github.io/react-native/releases/0.25/docs/tutorial.html) - **(Native)**
 ### Getting Started with Redux
@@ -22,7 +22,7 @@ Beginner - [Course: Getting Started with Redux](https://egghead.io/courses/getti
 Intermediate - [ReactNativeCode.com](https://reactnativecode.com/)
 
 ### October 2017
-Beginner - [ReactJS Tutorial For Beginners 2017 From Scratch](https://appdividend.com/2017/08/22/reactjs-tutorial-beginners-2017/)
+Beginner - [My first React App (Video)](https://www.youtube.com/watch?v=Pd3ZFwt9Lnc&index=3&list=PLujX4CIdBGCZWJuO6AkexvSBYzCjs4SCq)
 
 ### September 2017
 Beginner - [ReactJS Tutorial For Beginners 2017 From Scratch](https://appdividend.com/2017/08/22/reactjs-tutorial-beginners-2017/)
