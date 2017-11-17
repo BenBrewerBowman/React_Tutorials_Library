@@ -21,6 +21,9 @@ Beginner - [Course: Getting Started with Redux](https://egghead.io/courses/getti
 ### React Native Code Examples
 Intermediate - [ReactNativeCode.com](https://reactnativecode.com/)
 
+### November 2017
+Beginner - [Creating a Single-Page App in React using React Router](https://www.kirupa.com/react/creating_single_page_app_react_using_react_router.htm)
+
 ### October 2017
 Beginner - [My first React App (Video)](https://www.youtube.com/watch?v=Pd3ZFwt9Lnc&index=3&list=PLujX4CIdBGCZWJuO6AkexvSBYzCjs4SCq)
 
@@ -68,8 +71,6 @@ Intermediate - [Creating a Blogging App Using React](https://code.tutsplus.com/t
 Beginner - [Building React Native Apps on any Platform without Xcode or Android Studio](http://rationalappdev.com/building-react-native-apps-on-any-platform-without-xcode-or-android-studio/) - **(Native)**
 
 ### March 2017
-Beginner - [Creating a Single-Page App in React using React Router](https://www.kirupa.com/react/creating_single_page_app_react_using_react_router.htm)
-
 Beginner - [A Simple React Router v4 Tutorial](https://medium.com/@pshrmn/a-simple-react-router-v4-tutorial-7f23ff27adf)
 
 Intermediate - [How to Use `Create-react-app` with GraphQL & Apollo](https://blog.graph.cool/how-to-use-create-react-app-with-graphql-apollo-62e574617cff)
