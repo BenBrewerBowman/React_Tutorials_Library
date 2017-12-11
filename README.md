@@ -24,6 +24,8 @@ Intermediate - [ReactNativeCode.com](https://reactnativecode.com/)
 ### November 2017
 Beginner - [Creating a Single-Page App in React using React Router](https://www.kirupa.com/react/creating_single_page_app_react_using_react_router.htm)
 
+Intermediate - [Drag and Drop Tags in React Native](http://rationalappdev.com/drag-and-drop-tags-in-react-native-part-1-of-2/) - **(Native)**
+
 ### October 2017
 Beginner - [My first React App (Video)](https://www.youtube.com/watch?v=Pd3ZFwt9Lnc&index=3&list=PLujX4CIdBGCZWJuO6AkexvSBYzCjs4SCq)
 
@@ -65,6 +67,8 @@ Intermediate - [Charts in React Native (Part 2)](http://rationalappdev.com/chart
 Intermediate - [Charts in React Native (Part 3)](http://rationalappdev.com/charts-in-react-native-part-3/) - **(Native)**
 
 ### June 2017
+Beginner - [React vs Angular vs Vue.js by Example](https://www.udemy.com/react-vs-angular-vs-vuejs-by-example/)
+
 Intermediate - [Creating a Blogging App Using React](https://code.tutsplus.com/tutorials/creating-a-blogging-app-using-react-user-sign-in--cms-28568)
 
 ### May 2017
@@ -128,3 +132,6 @@ Beginner - [Getting Started with React, Redux and Immutable: a Test-Driven Tutor
 
 ### January 2016
 Intermediate - [Sharing Code between React Web and Native Apps](http://jkaufman.io/react-web-native-codesharing/)
+
+### February 2015
+Beginner - [Introduction to the React JavaScript Library](https://developer.telerik.com/featured/introduction-to-the-react-javascript-framework/)
