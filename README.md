@@ -22,6 +22,8 @@ Beginner - [Course: Getting Started with Redux](https://egghead.io/courses/getti
 Intermediate - [ReactNativeCode.com](https://reactnativecode.com/)
 
 ### November 2017
+Beginner - [React Redux Tutorial](https://www.youtube.com/watch?time_continue=4&v=tOtGnCBXU3U)
+
 Beginner - [Creating a Single-Page App in React using React Router](https://www.kirupa.com/react/creating_single_page_app_react_using_react_router.htm)
 
 Intermediate - [Drag and Drop Tags in React Native](http://rationalappdev.com/drag-and-drop-tags-in-react-native-part-1-of-2/) - **(Native)**
@@ -52,6 +54,8 @@ Beginner - [Beginner’s Guide To Setup React Environment](https://appdividend.c
 Beginner - [React Router v4 in 8 minutes](https://www.youtube.com/watch?v=AzlpRbziyZQ)
 
 Beginner - [MERN Stack Tutorial](https://appdividend.com/2017/06/28/mern-stack-tutorial/)
+
+Intermediate - [Add Redux to a React App](https://code.likeagirl.io/tutorial-for-adding-redux-to-a-react-app-1a94cc1738e5)
 
 Intermediate - [Node.Js Express MongoDB Tutorial](https://appdividend.com/2017/06/18/node-js-express-tutorial/)
 
