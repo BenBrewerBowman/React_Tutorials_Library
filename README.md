@@ -21,6 +21,13 @@ Beginner - [Course: Getting Started with Redux](https://egghead.io/courses/getti
 ### React Native Code Examples
 Intermediate - [ReactNativeCode.com](https://reactnativecode.com/)
 
+### January 2018
+Beginner - [React Redux Tutorial for Beginners: learning Redux in 2018](https://www.valentinog.com/blog/react-redux-tutorial-beginners/)
+
+Beginner - [React-Redux Tutorial for beginners 2018 with simple examples](https://medium.com/@riveryang/react-redux-tutorial-for-beginners-2018-with-cutting-edge-versions-of-simple-examples-f1b20e93bdf6)
+
+Beginner - [Start Learning React](https://egghead.io/courses/start-learning-react)
+
 ### November 2017
 Beginner - [React Redux Tutorial](https://www.youtube.com/watch?time_continue=4&v=tOtGnCBXU3U)
 
