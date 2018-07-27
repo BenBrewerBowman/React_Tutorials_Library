@@ -24,6 +24,8 @@ Intermediate - [ReactNativeCode.com](https://reactnativecode.com/)
 
 ### June 2018
 Beginner - [Getting Started with React, GraphQL, and Apollo](https://www.howtographql.com/react-apollo/1-getting-started/)
+Intermediate - [Learn the React Context API with a Practical Example](https://itnext.io/understanding-the-react-context-api-through-building-a-shared-snackbar-for-in-app-notifications-6c199446b80c)
+
 
 ### January 2018
 Beginner - [React Redux Tutorial for Beginners: learning Redux in 2018](https://www.valentinog.com/blog/react-redux-tutorial-beginners/)
